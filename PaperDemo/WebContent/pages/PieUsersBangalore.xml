@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><JSChart><dataset type="pie">
+<data unit="PUSD" value="55"/>
+<data unit="UHDC" value="70"/>
+<data unit="PUCHGHB" value="53"/>
+<data unit="PUQSS" value="10"/>
+</dataset><colorset><color value="#FACC00"/><color value="#FB9900"/><color value="#FB6600"/><color value="#FB4800"/></colorset><optionset><option set="setTitleColor" value="'#857D7D'"/><option set="setPieUnitsColor" value="'#9B9B9B'"/><option set="setPieValuesColor" value="'#6A0000'"/></optionset></JSChart>

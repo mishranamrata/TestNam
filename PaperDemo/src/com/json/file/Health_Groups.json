@@ -1,0 +1,60 @@
+{
+	"groups":[
+	{
+		  "name": "Health Group 2000",
+		  "category": "Health Care",
+		  "id":"1234123",
+		  "members":"6",
+		  "location":"Bangalore"
+		},
+		{
+		  "name":"Healthy Habits",
+		  "category":"Health Care",
+		  "id":"3423244",
+		  "members":"7",
+		  "location":"Bangalore"
+		},
+		{
+		  "name":"Healthy Behaviour",
+		 "category":"Health Care",
+		  "id":"3423242",
+		  "members":"0",
+		  "location":"Bangalore"
+		},
+		{
+		  "name":"Health Exercise",
+		 "category":"Health Care",
+		  "id":"342321",
+		  "members":"0",
+		   "location":"Bangalore"
+		},
+		{
+		  "name": "Health Group 2011",
+		  "category": "Health Care",
+		  "id":"1234123",
+		  "members":"1",
+		  "location":"Delhi"
+		},
+		{
+		  "name":"Healthy Habits 2012",
+		  "category":"Health Care",
+		  "id":"3423244",
+		  "members":"2",
+		  "location":"Delhi"
+		},
+		{
+		  "name":"Healthy Behaviour 2011",
+		 "category":"Health Care",
+		  "id":"3423242",
+		  "members":"1",
+		  "location":"Delhi"
+		},
+		{
+		  "name":"Health Exercise 2020",
+		 "category":"Health Care",
+		  "id":"342321",
+		  "members":"1",
+		   "location":"Delhi"
+		}
+		]
+}

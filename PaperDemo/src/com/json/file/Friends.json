@@ -1,0 +1,1149 @@
+ 
+ {
+    "friends":[
+    {
+        "name": "Gaurav Kulshrestha", 
+        "id": "541084172",
+		"location":"Bangalore",
+		"work": "Engineer",
+		"no_of_doc_contacts":"10",
+		"groups":
+		[
+		{
+		  "name": "XXXX",
+		  "category": "Entertainment",
+		  "id":"1234123",
+		  "members":"6",
+		  "location":"Mumbai"
+		},
+		{
+		  "name":"Health Group 2000",
+		  "category":"Health Care",
+		  "id":"3423244",
+		  "members":"6",
+		  "location":"Bangalore"
+		},
+		{
+		  "name":"Healthy Habits",
+		  "category":"Health Care",
+		  "id":"542134323",
+		  "members":"7",
+		  "location":"Bangalore"
+		}
+		]
+	,
+	"page": 
+	     [  {
+		  "name":"Health Activity",
+		  "id":"12345112",
+		  "likes":"25",
+		  "category":"Health",
+		   "location":"Bangalore"
+		  },
+		 {
+		  "name":"Health & Exercise",
+		  "id":"342435"
+		  "likes":"30"
+		  "category":"Health",
+		   "location":"Bangalore"
+		  }
+		  ]
+		,
+  "surveys": 
+		[
+		{
+		"name":"Quit Smoking",
+		"category":"Quit Smoking"
+		},
+		{
+		"name":"Quit Drinking",
+		"category":"Quit Drinking"
+		}
+		]
+	,
+  "smoking": "no",
+  "drinking":"yes" 
+  },
+   {
+        "name": "Than Ng", 
+        "id": "796664615",
+		"location":"Bangalore",
+		"work": "Engineer",
+		"no_of_doc_contacts":"5",
+		"groups":
+		[
+		{
+		  "name": "XXXX",
+		  "category": "Entertainment",
+		  "id":"1234123",
+		  "members":"5",
+		  "location":"Bangalore"
+		},
+		{
+		  "name":"Group 2000",
+		  "category":"Entertainment",
+		  "id":"3423244",
+		  "members":"5",
+		  "location":"Bangalore"
+		},
+		{
+		  "name":"Healthy Habits",
+		  "category":"Entertainment",
+		  "id":"542134323",
+		  "members":"5",
+		  "location":"Bangalore"
+		}
+		]
+	,
+	"page": 
+	     [
+	      {
+		  "name":"Health Activity",
+		  "id":"12345112",
+		  "likes":"25",
+		  "category":"Health",
+		  "location":"Bangalore"
+		  },
+		 {
+		  "name":"Health & Exercise",
+		  "id":"342435"
+		  "likes":"30"
+		  "category":"Health",
+		  "location":"work"
+		  }
+		 ]
+		,
+  "surveys":
+		[
+		{
+		"name":"Movie",
+		"category":"Movie"
+		},
+		{
+		"name":"Quit Drinking",
+		"category":"Quit Drinking"
+		}
+	]
+ ,
+  "smoking": "yes",
+  "drinking":"yes" 
+      }, 
+      {        "name": "Vikas Singh", 
+        "id": "1393922020",
+		"location":"Bangalore",
+		"work": "Doctor",
+		"no_of_doc_contacts":"2",
+		"groups":
+		[
+		{
+		  "name": "XXXX",
+		  "category":"Health Care",
+		  "id":"1234123",
+		  "members":"6",
+		  "location":"mumbai"
+		},
+		{
+		  "name":"Group 2000",
+		  "category":"Health Care",
+		  "id":"3423244",
+		  "members":5,
+		  "location":"Bangalore"
+		},
+		{
+		  "name":"Healthy Habits",
+		  "category":"Health Care",
+		  "id":"542134323",
+		  "members":"5",
+		  "location":"Bangalore"
+		}
+		]
+	,
+	"page": 
+	     [
+	     {
+		  "name":"Health Activity",
+		  "id":"12345112",
+		  "likes":"25",
+		  "category":"Health",
+		   "location":"Bangalore"
+		  },
+		 {
+		  "name":"Health & Exercise",
+		  "id":"342435"
+		  "likes":"30"
+		  "category":"Health",
+		   "location":"Bangalore"
+		  }
+		  ]
+		,
+  "surveys": 
+		[
+		{
+		"name":"Movie",
+		"category":"Movie"
+		},
+		{
+		"name":"Quit Drinking",
+		"category":"Quit Drinking"
+		}
+],
+  "smoking": "no",
+  "drinking":"no" 
+      }, 
+       {        "name": "Rohit Asthana", 
+        "id": "1534402317",
+		"location":"Bangalore",
+		"work": "Doctor",
+		"no_of_doc_contacts":"5",		
+		"groups":[
+		{
+		  "name": "XXXX",
+		  "category": "Entertainment",
+		  "id":"1234123",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Group 2000",
+		  "category":"Entertainment",
+		  "id":"3423244",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Healthy Habits",
+		  "category":"Entertainment",
+		  "id":"542134323",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		}
+		]
+	,
+	"page":[
+	     {
+		  "name":"Health Activity",
+		  "id":"12345112",
+		  "likes":"25",
+		  "category":"Health"
+		  },
+		 {
+		  "name":"Health & Exercise",
+		  "id":"342435"
+		  "likes":"30"
+		  "category":"Health"
+		  }
+		 ]
+		,
+  "surveys": [
+		{
+		"name":"Movie",
+		"category":"Movie"
+		},
+		{
+		"name":"Quit Drinking",
+		"category":"Quit Drinking"
+		}
+	]
+  ,
+  "smoking": "no",
+  "drinking":"no" 
+      }, 
+        {        "name": "Satyam Tiwari", 
+        "id": "1832740789",
+		"location":"Bangalore",
+		"work": "Engineer",
+		"no_of_doc_contacts":"10",
+		"groups":[
+		{
+		  "name": "XXXX",
+		  "category":"Health Care",
+		  "id":"1234123",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Group 2000",
+		  "category":"Health Care",
+		  "id":"3423244",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Healthy Habits",
+		  "category":"Entertainment",
+		  "id":"542134323",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		}
+		]
+	,
+	"page": [
+	     {
+		  "name":"Health Activity",
+		  "id":"12345112",
+		  "likes":"25",
+		  "category":"Entertainment"
+		  },
+		 {
+		  "name":"Health & Exercise",
+		  "id":"342435"
+		  "likes":"30"
+		  "category":"Health"
+		  }
+		 ]
+		,
+  "surveys": [
+		{
+		"name":"Movie",
+		"category":"Movie"
+		},
+		{
+		"name":"Quit Drinking",
+		"category":"Quit Drinking"
+		}
+	]
+  ,
+  "smoking": "yes",
+  "drinking":"yes" 
+      },
+	  {
+        "name": "Gaurav Jain", 
+        "id": "5410841745",
+		"location":"Bangalore",
+		"work": "Engineer",
+		"no_of_doc_contacts":"1",
+		"groups":[
+		{
+		  "name": "XXXX",
+		  "category":"Health Care",
+		  "id":"1234123",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Group 2000",
+		  "category":"Entertainment",
+		  "id":"3423244",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Healthy Habits",
+		  "category":"Entertainment",
+		  "id":"542134323",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		}
+		],
+	"page": [
+	     {
+		  "name":"Health Activity",
+		  "id":"12345112",
+		  "likes":"25",
+		  "category":"Health"
+		  },
+		 {
+		  "name":"Health & Exercise",
+		  "id":"342435"
+		  "likes":"30"
+		  "category":"Health"
+		  }
+		 ],		
+  "surveys": [
+		{
+		"name":"Movie",
+		"category":"Movie"
+		},
+		{
+		"name":"Quit Drinking",
+		"category":"Quit Drinking"
+		}
+	],
+  "smoking": "yes",
+  "drinking":"yes" 
+      }, 
+         {        "name": "Ravindra", 
+        "id": "796664623",
+		"location":"Bangalore",
+		"work": "Doctor",
+		"no_of_doc_contacts":"10",
+		"groups":[
+		{
+		  "name": "XXXX",
+		  "category": "Entertainment",
+		  "id":"1234123",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Group 2000",
+		  "category":"Entertainment",
+		  "id":"3423244",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Healthy Habits",
+		  "category":"Entertainment",
+		  "id":"542134323",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		}
+	],
+	"page": [
+	     {
+		  "name":"Health Activity",
+		  "id":"12345112",
+		  "likes":"25",
+		  "category":"Health"
+		  },
+		 {
+		  "name":"Health & Exercise",
+		  "id":"342435"
+		  "likes":"30"
+		  "category":"Health"
+		  }
+		 ],
+  "surveys": [
+		{
+		"name":"Movie",
+		"category":"Movie"
+		},
+		{
+		"name":"Quit Drinking",
+		"category":"Quit Drinking"
+		}
+	],
+  "smoking": "no",
+  "drinking":"no" 
+      }, 
+      {
+        "name": "Vel Murgan", 
+        "id": "1393922012",
+		"location":"Bangalore",
+		"work": "Engineer",
+		"no_of_doc_contacts":"10",
+		"groups":[
+		{
+		  "name": "XXXX",
+		  "category": "Entertainment",
+		  "id":"1234123",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Group 2000",
+		  "category":"Entertainment",
+		  "id":"3423244",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Healthy Habits",
+		  "category":"Entertainment",
+		  "id":"542134323",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		}
+	],
+	"page": [
+	     {
+		  "name":"Health Activity",
+		  "id":"12345112",
+		  "likes":"25",
+		  "category":"Health"
+		  },
+		 {
+		  "name":"Health & Exercise",
+		  "id":"342435"
+		  "likes":"30"
+		  "category":"Health"
+		  }
+		],
+  "surveys": [
+		{
+		"name":"Movie",
+		"category":"Movie"
+		},
+		{
+		"name":"Quit Drinking",
+		"category":"Quit Drinking"
+		}
+	],
+  "smoking": "yes",
+  "drinking":"yes" 
+      }, 
+            {        "name": "Rohit Adalakaha", 
+        "id": "1534402345",
+		"location":"Bangalore",
+		"work": "Doctor",
+		"no_of_doc_contacts":"4",
+		"groups":[
+		{
+		  "name": "XXXX",
+		  "category": "Entertainment",
+		  "id":"1234123",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Group 2000",
+		  "category":"Entertainment",
+		  "id":"3423244",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Healthy Habits",
+		  "category":"Entertainment",
+		  "id":"542134323",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		}
+		],
+	"page": [
+	     {
+		  "name":"Health Activity",
+		  "id":"12345112",
+		  "likes":"25",
+		  "category":"Health"
+		  },
+		 {
+		  "name":"Health & Exercise",
+		  "id":"342435",
+		  "likes":"30",
+		  "category":"Health"
+		  }
+		],
+  "surveys":[
+		{
+		"name":"Movie",
+		"category":"Movie"
+		},
+		{
+		"name":"Quit Drinking",
+		"category":"Quit Drinking"
+		}
+	],
+  "smoking": "yes",
+  "drinking":"yes" 
+      }, 
+      {
+        "name": "Satyam Awasthi", 
+        "id": "1832740721",
+		"location":"Bangalore",
+		"work": "Engineer",
+		"no_of_doc_contacts":"10",
+		"groups":[
+		{
+		  "name": "XXXX",
+		  "category": "Health Care",
+		  "id":"1234123",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Group 2000",
+		  "category":"Health Care",
+		  "id":"3423244",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Healthy Habits",
+		  "category":"Entertainment",
+		  "id":"542134323",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		}
+		],
+	"page": [
+	     {
+		  "name":"Health Activity",
+		  "id":"12345112",
+		  "likes":"25",
+		  "category":"Health"
+		  },
+		 {
+		  "name":"Health & Exercise",
+		  "id":"342435",
+		  "likes":"30",
+		  "category":"Health"
+		  }
+		],
+  "surveys": [
+		{
+		"name":"Movie",
+		"category":"Movie"
+		},
+		{
+		"name":"Quit Drinking",
+		"category":"Quit Drinking"
+		}
+	],
+  "smoking": "no",
+  "drinking":"no" 
+      },
+       {        "name": "Tarun Kulshrestha", 
+        "id": "541084121",
+		"location":"Delhi",
+		"work": "Engineer",
+		"no_of_doc_contacts":"2",
+		"groups":[
+		{
+		  "name": "XXXX",
+		  "category": "Entertainment",
+		  "id":"1234123",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Health Group 2011",
+		  "category":"Health Care",
+		  "id":"3423244",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Healthy Habits",
+		  "category":"Entertainment",
+		  "id":"542134323",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		}
+		],
+	"page":[
+	     {
+		  "name":"Health Activity",
+		  "id":"12345112",
+		  "likes":"25",
+		  "category":"Entertainment"
+		  },
+		 {
+		  "name":"Health & Exercise",
+		  "id":"342435",
+		  "likes":"30",
+		  "category":"Entertainment"
+		  }
+		],
+  "surveys":[
+		{
+		"name":"Movie",
+		"category":"Movie"
+		},
+		{
+		"name":"Quit Drinking",
+		"category":"Quit Drinking"
+		}
+	],
+  "smoking": "yes",
+  "drinking":"yes" 
+      }, 
+      {
+        "name": "Tripti", 
+        "id": "7966646234",
+		"location":"Delhi",
+		"work": "Engineer",
+		"no_of_doc_contacts":"1",
+		"groups":[
+		{
+		  "name": "XXXX",
+		  "category": "Entertainment",
+		  "id":"1234123",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Healthy Habits 2012",
+		  "category":"Health Care",
+		  "id":"3423244",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Healthy Habits",
+		  "category":"Entertainment",
+		  "id":"542134323",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		}
+		],
+	"page":[
+	     {
+		  "name":"Health Activity",
+		  "id":"12345112",
+		  "likes":"25",
+		  "category":"Entertainment"
+		  },
+		 {
+		  "name":"Health & Exercise",
+		  "id":"342435",
+		  "likes":"30",
+		  "category":"Entertainment"
+		  }
+		],
+  "surveys": [
+		{
+		"name":"Movie",
+		"category":"Movie"
+		},
+		{
+		"name":"Quit Drinking",
+		"category":"Quit Drinking"
+		}
+	],
+  "smoking": "yes",
+  "drinking":"yes" 
+      }, 
+        {        "name": "Preeti Singh", 
+        "id": "1393922012",
+		"location":"Delhi",
+		"work": "Engineer",
+		"no_of_doc_contacts":"1"
+		"groups":[
+		{
+		  "name": "Healthy Habits 2012",
+		  "category": "Health Care",
+		  "id":"1234123",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Healthy Behaviour 2011",
+		  "category":"Health Care",
+		  "id":"3423244",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Healthy Habits",
+		  "category":"Entertainment",
+		  "id":"542134323",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		}
+		],
+	"page": [
+	     {
+		  "name":"Health Activity",
+		  "id":"12345112",
+		  "likes":"25",
+		  "category":"Movie"
+		  },
+		 {
+		  "name":"Health & Exercise",
+		  "id":"342435",
+		  "likes":"30",
+		  "category":"Movie"
+		  }
+		],
+  "surveys": [
+		{
+		"name":"Movie",
+		"category":"Movie"
+		},
+		{
+		"name":"Quit Drinking",
+		"category":"Quit Drinking"
+		}
+	],
+  "smoking": "yes",
+  "drinking":"yes" 
+      }, 
+      {
+        "name": "Tarun Asthana", 
+        "id": "1534402123",
+		"location":"Delhi",
+		"work": "Engineer",
+		"no_of_doc_contacts":"1",
+		"groups":[
+		{
+		  "name": "XXXX",
+		  "category": "Entertainment",
+		  "id":"1234123",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Health Exercise 2020",
+		  "category":"Health Care",
+		  "id":"3423244",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Healthy Habits",
+		  "category":"Entertainment",
+		  "id":"542134323",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		}
+		],
+	"page": [
+	     {
+		  "name":"Health Activity",
+		  "id":"12345112",
+		  "likes":"25",
+		  "category":"Video"
+		  },
+		 {
+		  "name":"Health & Exercise",
+		  "id":"342435",
+		  "likes":"30",
+		  "category":"Video"
+		  }
+		],
+  "surveys": [
+		{
+		"name":"Movie",
+		"category":"Movie"
+		},
+		{
+		"name":"Quit Drinking",
+		"category":"Quit Drinking"
+		}
+],
+  "smoking": "yes",
+  "drinking":"yes" 
+      }, 
+      {
+        "name": "Narayan Tiwari", 
+        "id": "1832740721",
+		"location":"Delhi",
+		"work": "Engineer",
+		"no_of_doc_contacts":"1",
+		"groups":[
+		{
+		  "name": "XXXX",
+		  "category": "Entertainment",
+		  "id":"1234123",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Group 2000",
+		  "category":"Entertainment",
+		  "id":"3423244",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Healthy Habits",
+		  "category":"Entertainment",
+		  "id":"542134323",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		}
+		],
+	"page": [
+	     {
+		  "name":"Health Activity",
+		  "id":"12345112",
+		  "likes":"25",
+		  "category":"Movie"
+		  },
+		 {
+		  "name":"Health & Exercise",
+		  "id":"342435",
+		  "likes":"30",
+		  "category":"Movie"
+		  }
+		],
+  "surveys":[
+		{
+		"name":"Movie",
+		"category":"Movie"
+		},
+		{
+		"name":"Quit Drinking",
+		"category":"Quit Drinking"
+		}
+	],
+  "smoking": "yes",
+  "drinking":"yes" 
+      },
+	  {
+        "name": "Gaurav Dewidi", 
+        "id": "541084121",
+		"location":"Delhi",
+		"work": "Engineer",
+		"no_of_doc_contacts":"1",
+		"groups":[
+		{
+		  "name": "XXXX",
+		  "category": "Entertainment",
+		  "id":"1234123",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Group 2000",
+		  "category":"Entertainment",
+		  "id":"3423244",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Healthy Habits",
+		  "category":"Entertainment",
+		  "id":"542134323",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		}
+		],
+	"page": [
+	     {
+		  "name":"Health Activity",
+		  "id":"12345112",
+		  "likes":"25",
+		  "category":"Movie"
+		  },
+		 {
+		  "name":"Health & Exercise",
+		  "id":"342435",
+		  "likes":"30",
+		  "category":"Movie"
+		  }
+		],
+  "surveys": [
+		{
+		"name":"Movie",
+		"category":"Movie"
+		},
+		{
+		"name":"Quit Drinking",
+		"category":"Quit Drinking"
+		}
+	],
+  "smoking": "yes",
+  "drinking":"yes" 
+      }, 
+      {
+        "name": "Pallavi Dixit", 
+        "id": "796664115",
+		"location":"Delhi",
+		"work": "Engineer",
+		"no_of_doc_contacts":"1",
+		"groups":[
+		{
+		  "name": "XXXX",
+		  "category":"Entertainment",
+		  "id":"1234123",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Group 2000",
+		  "category":"Entertainment",
+		  "id":"3423244",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Healthy Habits",
+		  "category":"Entertainment",
+		  "id":"542134323",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		}
+		],
+	"page": [
+	     {
+		  "name":"Health Activity",
+		  "id":"12345112",
+		  "likes":"25",
+		  "category":"Movie"
+		  },
+		 {
+		  "name":"Health & Exercise",
+		  "id":"342435",
+		  "likes":"30",
+		  "category":"Movie"
+		  }
+		],
+  "surveys": [
+		{
+		"name":"Movie",
+		"category":"Movie"
+		},
+		{
+		"name":"Quit Drinking",
+		"category":"Quit Drinking"
+		}
+	],
+  "smoking": "yes",
+  "drinking":"yes" 
+      }, 
+      {
+        "name": "Namita Pandey", 
+        "id": "139212020",
+		"location":"Delhi",
+		"work": "Engineer",
+		"no_of_doc_contacts":"1",
+		"groups":[
+		{
+		  "name": "XXXX",
+		  "category": "Entertainment",
+		  "id":"1234123",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Group 2000",
+		  "category":"Entertainment",
+		  "id":"3423244",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Healthy Habits",
+		  "category":"Entertainment",
+		  "id":"542134323",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		}
+	],
+	"page": [
+	     {
+		  "name":"Health Activity",
+		  "id":"12345112",
+		  "likes":"25",
+		  "category":"Movie"
+		  },
+		 {
+		  "name":"Health & Exercise",
+		  "id":"342435",
+		  "likes":"30",
+		  "category":"Movie"
+		  }
+		],
+  "surveys": [
+		{
+		"name":"Movie",
+		"category":"Movie"
+		},
+		{
+		"name":"Quit Drinking",
+		"category":"Quit Drinking"
+		}
+	],
+  "smoking": "yes",
+  "drinking":"yes" 
+      }, 
+      {
+        "name": "Priyanka Asthana", 
+        "id": "153440217",
+		"location":"Delhi",
+		"work": "Engineer",
+		"no_of_doc_contacts":"1",
+		"groups":[
+		{
+		  "name": "XXXX",
+		  "category": "Entertainment",
+		  "id":"1234123",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Group 2000",
+		  "category":"Entertainment",
+		  "id":"3423244",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Healthy Habits",
+		  "category":"Entertainment",
+		  "id":"542134323",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		}
+		],
+	"page": [
+	     {
+		  "name":"Health Activity",
+		  "id":"12345112",
+		  "likes":"25",
+		  "category":"Movie"
+		  },
+		 {
+		  "name":"Health & Exercise",
+		  "id":"342435",
+		  "likes":"30",
+		  "category":"Movie"
+		  }
+		],
+  "surveys": [
+		{
+		"name":"Movie",
+		"category":"Movie"
+		},
+		{
+		"name":"Quit Drinking",
+		"category":"Quit Drinking"
+		}
+	],
+  "smoking": "yes",
+  "drinking":"yes" 
+      }, 
+      {
+        "name": "Priyanka Tiwari", 
+        "id": "1832740219",
+		"location":"Delhi",
+		"work": "Engineer",
+		"no_of_doc_contacts":"1",
+		"groups":[
+		{
+		  "name": "XXXX",
+		  "category": "Entertainment",
+		  "id":"1234123",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Group 2000",
+		  "category":"Entertainment",
+		  "id":"3423244",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		},
+		{
+		  "name":"Healthy Habits",
+		  "category":"Entertainment",
+		  "id":"542134323",
+		  "members" : "6",
+		  "locations": "Bangalore"
+		}
+		],
+	"page": [
+	     {
+		  "name":"Health Activity",
+		  "id":"12345112",
+		  "likes":"25",
+		  "category":"Movie"
+		  },
+		 {
+		  "name":"Health & Exercise",
+		  "id":"342435",
+		  "likes":"30",
+		  "category":"Movie"
+		  }
+		],
+  "surveys": [
+		{
+		"name":"Movie",
+		"category":"Movie"
+		},
+		{
+		"name":"Quit Drinking",
+		"category":"Quit Drinking"
+		}
+	],
+  "smoking": "yes",
+  "drinking":"yes" 
+      }
+      
+  
+     
+    ]  
+  }	

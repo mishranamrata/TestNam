@@ -1,0 +1,59 @@
+{
+  "id": "768413164", 
+  "name": "Namrata Rahul Bajpai", 
+  "location": "Bangalore",
+  "work": "Engineer",
+  "groups":[
+		{
+		  "name": "Mueseum Therather",
+		  "category": "Entertainment",
+		  "id":"1234123",
+		  "members":"20",
+		  "location":"Bangalore"
+		  },
+		{
+		  "name":"Health Group 2000",
+		  "category":"Health Care",
+		  "id":"3423244",
+		   "members":"2",
+		  "location":"Bangalore"
+		},
+		{
+		  "name":"Healthy Habits",
+		  "category":"Health Care",
+		  "id":"542134323",
+		   "members":"5",
+		  "location":"Bangalore"
+		}
+		]
+	,
+	"page":[
+	     {
+		  "name":"Health Activity",
+		  "id":"12345112",
+		  "likes":"25",
+		  "category":"Health",
+		  "location":"Bangalore"
+		  },
+		 {
+		  "name":"Health & Exercise",
+		  "id":"342435"
+		  "likes":"30"
+		  "category":"Health",
+		  "location":"Bangalore"
+		  }
+		],
+	"surveys":[
+		{
+		"name":"Quit Smoking",
+		"category":"Quit Smoking"
+		},
+		{
+		"name":"Quit Drinking",
+		"category":"Quit Drinking"
+		}
+	]
+  ,
+  "smoking": "no",
+  "drinking":"yes"
+ }
